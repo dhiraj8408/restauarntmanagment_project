@@ -63,3 +63,4 @@ price. Also print name of the restaurant and its address.<br /><br />
 Based on the problem statement we decide to make use of structures in c and defined the structures accordingly
 we initialized the databases to null values to avoid garbage values
 we used file handling in c to provide the input database of restaurnats
+we have used array of strurctures to implement all the databases that were required
