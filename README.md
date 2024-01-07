@@ -4,8 +4,8 @@ The problem Statement for the code which we made is as follows:
 
 Problem Statement:
 Online ordering of food now-a-days is common. Managing the system is a tedious task. The goal here is to design a
-system which performs the task.
-Create a list of restaurants in a city. Each restaurant is with attributes:
+system which performs the task.<br />
+Create a list of restaurants in a city. Each restaurant is with attributes:<br />
 a. Listing of generic food items and their respective prices for given quantity. <br />
 b. Special items available at the restaurant and their prices. <br />
 c. Special Item of the day and its price. <br />
