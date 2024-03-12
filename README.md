@@ -1,4 +1,4 @@
-# Restauarant Database managment
+# Restaurant Database managment
 A mini project built in c which manages the database system of restaurants and provides a user interface to perform a set of instructions
 The problem Statement for the code which we made is as follows:
 
