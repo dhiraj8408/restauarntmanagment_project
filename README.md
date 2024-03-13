@@ -2,7 +2,7 @@
 A mini project built in c which manages the database system of restaurants and provides a user interface to perform a set of instructions
 The problem Statement for the code which we made is as follows:
 
-<h3>Problem Statement:<h3/>
+Problem Statement:
 Online ordering of food now-a-days is common. Managing the system is a tedious task. The goal here is to design a
 system which performs the task.<br />
 Create a list of restaurants in a city. Each restaurant is with attributes:<br />
